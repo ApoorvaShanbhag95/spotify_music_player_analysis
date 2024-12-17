@@ -14,19 +14,16 @@ Interactive Elements: Click on elements in the dashboard to drill down for more 
 Getting Started 🛠️
 Prerequisites: You need Power BI Desktop (for local use) or Power BI Service (for online sharing) to interact with the dashboard.
 
-Data Source: You will get the data from Kaggle itself or you can use your real time dataset of Spotify. -To get the data, refer the "Dataset Link" below and download it from their.
-
--Dataset link - https://drive.google.com/file/d/1BV4xeXnYhNJzNZ05Nzpxz7eh-Jkeea1G/view?usp=sharing
+Data Source: You will get the data from Kaggle itself or you can use your real time dataset of Spotify.
 
 Open Power BI Desktop and choose "Get Data."
 Select your data source and follow the prompts to load the data.
 Dashboard Setup:
 Download or clone this repository to your local machine.
-Open the spotify_dashboard.pbix file using Power BI Desktop.
-Data Refresh (For Power BI Service):
-If you're using Power BI Service, you can set up scheduled data refresh to keep your dashboard up-to-date.
-Configure data source credentials and schedule refresh according to your preferences.
+Open the spotify_music_player_analysis.pbix file using Power BI Desktop.
+
 Usage 🎉
+
 Opening the Dashboard:
 Open the spotify_dashboard.pbix file in Power BI Desktop to interact with the dashboard locally.
 Alternatively, upload the dashboard to Power BI Service to share it online.
@@ -37,7 +34,8 @@ Customization:
 Feel free to customize the dashboard to fit your preferences.
 Add new visuals, rearrange elements, or modify colors and formatting.
 Screenshots 📸
-For screenshot of Spotify Dashboard please click on - "Dashbaord.png file"
+
+For screenshot of Spotify Dashboard please click on - "Dashboard.png file"
 
 
 
