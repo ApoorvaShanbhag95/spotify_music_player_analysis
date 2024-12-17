@@ -1,1 +1,1 @@
-# spotify_music_player_analysis
+# spotify_dashboard_powerbi
