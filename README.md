@@ -10,6 +10,7 @@ Top Tracks, Artists: Visualize most-listened tracks, favorite artists for the ye
 Customizable Filters: Use filters to narrow down data by date, artist.
 Recommendations: Leverage your data to get tailored music recommendations based on your listening history.
 Interactive Elements: Click on elements in the dashboard to drill down for more detailed insights.
+
 Getting Started 🛠️
 Prerequisites: You need Power BI Desktop (for local use) to interact with the dashboard.
 
