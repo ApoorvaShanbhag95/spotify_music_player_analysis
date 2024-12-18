@@ -26,7 +26,7 @@ Opening the Dashboard:
 Open the spotify_music_player_analysis.pbix file in Power BI Desktop to interact with the dashboard locally.
 Exploring Data:
 Interact with visuals by clicking on them.
-Use filters and slicers to focus on specific time periods, artists, or mode.
+Use filters to focus on specific time periods, artists, or mode.
 Customization:
 Feel free to customize the dashboard to fit your preferences.
 Add new visuals, rearrange elements, or modify colors and formatting.
