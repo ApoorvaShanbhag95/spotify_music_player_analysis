@@ -24,7 +24,7 @@ Open the spotify_music_player_analysis.pbix file using Power BI Desktop.
 Usage 🎉
 
 Opening the Dashboard:
-Open the spotify_dashboard.pbix file in Power BI Desktop to interact with the dashboard locally.
+Open the spotify_music_player_analysis.pbix file in Power BI Desktop to interact with the dashboard locally.
 Alternatively, upload the dashboard to Power BI Service to share it online.
 Exploring Data:
 Interact with visuals by clicking on them.
